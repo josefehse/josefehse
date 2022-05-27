@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @josefehse.
 - 👀 I’m interested in IT, coding, IoT, music, running and reading!
-- 🌱 I’m currently learning C# and DotNet.
+- 🌱 I’m currently learning French and Italian!
 - 💞️ I’m looking to collaborate on any Azure related coding, PowerShell, CLI, Bicep, ARM Templates, Terraform.
 
 <!---
